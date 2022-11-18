@@ -3,6 +3,18 @@ title: "Archive Layout with Content"
 layout: archive
 permalink: /archive-layout-with-content/
 ---
+# 개요
+이 블로그는 잡다한 것을 다 적는 공부의 목적을 가지고 있다.
+
+가장 효율적으로 공부하는 것은 쓸모있고 필요한 지식을 최단시간에 응용할 수 있도록 하는 것에 있다.
+
+공부에는 암기와 이해가 필요하다.
+암기에는 반복이
+이해에는 설명이 좋은 방법이 될 수 있다.
+
+따라서 공부한 순서대로 꾸준히 올리고 복습하고, 쉽게 설명하면 된다
+
+나는 안키, 질문, 마인드 맵이 효과가 좋았다.
 
 A variety of common markup showing how the theme styles them.
 
