@@ -4,6 +4,17 @@ layout: archive
 permalink: /archive-layout-with-content/
 ---
 # 개요
+
+<details>
+<summary>Preview</summary>
+
+{% highlight ruby %}
+puts '문제를 해결하자'
+{% endhighlight %}
+
+</details>
+
+
 이 블로그는 잡다한 것을 다 적는 공부의 목적을 가지고 있다.
 
 가장 효율적으로 공부하는 것은 쓸모있고 필요한 지식을 최단시간에 응용할 수 있도록 하는 것에 있다.
