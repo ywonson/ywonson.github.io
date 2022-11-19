@@ -294,4 +294,5 @@ defaults:
 
 
 
-date_format: "%Y-%m-%d" 
+date_format: "%Y-%m-%d"
+future: true
