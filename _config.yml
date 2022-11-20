@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : #
   avatar           : #path of avatar image, e.g. "/assets/img/"
-  bio              : "손용원(1997.05.01)"
+  bio              : "손용원(yongwon son)"
   location         : #"Republic of Korea"
   email            : ywson51@gmail.com
   links:
@@ -286,11 +286,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: # true
       comments: # true
-      share: true
-      related: true
+      share: # true
+      related: # true
       show_date: true
+      classes: wide
 
 
 
