@@ -1,42 +1,19 @@
 ---
 layout: single
-title: CMD 
+title: 
 tags:
   - 처음
 toc: true
 ---
-# 내가 자주 사용한 명령어 모음
+# 헤딩
 
-## markup
-
-
-
-## bash
-### chmod
-
-
-## python
-### selenium
-
-
-
-## jupyter notebook
-
-## Rust
-
-
-## Window
-
-
-
-
-
+## 소제목
 
 <details>
 <summary>Preview</summary>
 
 {% highlight ruby %}
-puts '문제를 해결하자 !'
+puts '문제를 해결하자 ![git](../img/2022-09-19-test1/git.png)'
 {% endhighlight %}
 
 </details>
