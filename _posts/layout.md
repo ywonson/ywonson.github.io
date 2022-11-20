@@ -5,22 +5,29 @@ tags:
   - 처음
 toc: true
 ---
-# 헤딩
-
-## 소제목
-
-<details>
-<summary>Preview</summary>
 
 {% highlight ruby %}
-puts '문제를 해결하자 ![git](../img/2022-09-19-test1/git.png)'
+puts '문제를 해결하자'
 {% endhighlight %}
 
+```python
+Alert(driver).accept()
+#to dismiss alert
+#Alert(driver).dismiss()
+```
+
+<details>
+<summary>
+문제를 입력하세요
+</summary>
+정답을 입력하세요
 </details>
 
 
-[X] 복습 완료
-[ ] 앞으로 복습 필요
+[X]  복습 완료
+[  ]  앞으로 복습 필요
+
+
 
 
 
