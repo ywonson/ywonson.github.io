@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "714b1a04d43f6a73",
+            "id": "0fc94e628e28f627",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c99505eb39aa91a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1997-05-01-잡생각 정리__.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "layout.md",
+                "file": "2022-11-22-flask&oracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "layout.md",
+                "file": "2022-11-22-flask&oracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "layout.md"
+                "file": "2022-11-22-flask&oracle.md"
               }
             }
           }
@@ -149,16 +162,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5d49e9d6b5eaaf47",
+  "active": "0fc94e628e28f627",
   "lastOpenFiles": [
+    "2010-01-01-cmd.md",
+    "1997-05-01-잡생각 정리__.md",
     "2022-11-22-flask&oracle.md",
     "layout.md",
     "2022-11-20-Study.md",
     "2022-11-20-소방공모전.md",
     "2022-09-19-데이터 분석.md",
     "2020-01-01-취업준비.md",
-    "2010-01-01-cmd.md",
-    "1997-05-01-잡생각 정리__.md",
     "2030-01-01-빈 노트__.md",
     "2022-11-20-Programing.md"
   ]

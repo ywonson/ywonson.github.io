@@ -6,6 +6,8 @@ tags:
 toc: true
 ---
 
+<ins>tex</ins>
+
 {% highlight ruby %}
 puts '문제를 해결하자'
 {% endhighlight %}
@@ -23,12 +25,17 @@ Alert(driver).accept()
 정답을 입력하세요
 </details>
 
-
+```
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+```
 [X]  복습 완료
 [  ]  앞으로 복습 필요
 
 
-
+ `![A test image](image.png)`
 
 
 ![git](../img/2022-09-19-test1/git.png)
