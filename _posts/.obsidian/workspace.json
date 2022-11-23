@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "layout.md",
+                "file": "2030-01-01-빈 노트__.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee82b9d8d3f45e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2030-01-01-머신러닝.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-22-flask&oracle.md",
+                "file": "2030-01-01-머신러닝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-22-flask&oracle.md",
+                "file": "2030-01-01-머신러닝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-22-flask&oracle.md"
+                "file": "2030-01-01-머신러닝.md"
               }
             }
           }
@@ -162,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0fc94e628e28f627",
+  "active": "ee82b9d8d3f45e00",
   "lastOpenFiles": [
-    "2010-01-01-cmd.md",
-    "1997-05-01-잡생각 정리__.md",
-    "2022-11-22-flask&oracle.md",
+    "2030-01-01-빈 노트__.md",
     "layout.md",
+    "2022-11-22-flask&oracle.md",
+    "1997-05-01-잡생각 정리__.md",
+    "2010-01-01-cmd.md",
     "2022-11-20-Study.md",
     "2022-11-20-소방공모전.md",
     "2022-09-19-데이터 분석.md",
     "2020-01-01-취업준비.md",
-    "2030-01-01-빈 노트__.md",
     "2022-11-20-Programing.md"
   ]
 }
