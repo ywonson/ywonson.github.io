@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4eced1b8b5047169",
@@ -138,10 +139,10 @@
   },
   "active": "9c99505eb39aa91a",
   "lastOpenFiles": [
-    "1997-05-01-잡생각 정리__.md",
-    "2000-01-01-Q&A.md",
-    "2022-11-22-flask&oracle.md",
     "2010-01-01-cmd.md",
+    "2000-01-01-Q&A.md",
+    "1997-05-01-잡생각 정리__.md",
+    "2022-11-22-flask&oracle.md",
     "2030-01-01-빈 노트__.md",
     "2030-01-01-머신러닝.md",
     "layout.md",
