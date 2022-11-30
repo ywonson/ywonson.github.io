@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cbbeaf7ef0277a9d",
+        "id": "696c92a341f195b2",
         "type": "tabs",
         "children": [
           {
-            "id": "9c99505eb39aa91a",
+            "id": "a32e56ef1cfca548",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-22-flask&oracle.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4eced1b8b5047169",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-22-flask&oracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-22-flask&oracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-11-22-flask&oracle.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c99505eb39aa91a",
+  "active": "a32e56ef1cfca548",
   "lastOpenFiles": [
-    "2010-01-01-cmd.md",
-    "2000-01-01-Q&A.md",
-    "1997-05-01-잡생각 정리__.md",
-    "2022-11-22-flask&oracle.md",
+    "2030-01-01-활동 및 계획__.md",
     "2030-01-01-빈 노트__.md",
     "2030-01-01-머신러닝.md",
-    "layout.md",
-    "2022-11-20-Study.md",
+    "2030-01-01-멘사 홍보위원회__.md",
+    "2030-01-01-딥러닝.md",
+    "2030-01-01-ML 정리.md",
     "2022-11-20-소방공모전.md",
-    "2022-09-19-데이터 분석.md"
+    "2022-11-20-독후감.md",
+    "2022-11-20-Study.md",
+    "2022-11-20-Programing.md"
   ]
 }
