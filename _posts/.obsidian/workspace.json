@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2030-01-01-활동 및 계획__.md",
+                "file": "2000-01-01-Q&A.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2030-01-01-활동 및 계획__.md",
+                "file": "2000-01-01-Q&A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2030-01-01-활동 및 계획__.md",
+                "file": "2000-01-01-Q&A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2030-01-01-활동 및 계획__.md"
+                "file": "2000-01-01-Q&A.md"
               }
             }
           }
@@ -138,9 +138,9 @@
   },
   "active": "a32e56ef1cfca548",
   "lastOpenFiles": [
-    "back up.md",
     "1997-05-01-잡생각 정리__.md",
     "2030-01-01-활동 및 계획__.md",
+    "back up.md",
     "2030-01-01-딥러닝.md",
     "2030-01-01-빈 노트__.md",
     "2030-01-01-머신러닝.md",
