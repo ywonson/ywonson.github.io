@@ -14,16 +14,11 @@ toc: true
 
 ## git
 
-싹다 pull 땡기기 
-```bash
-fodd
+싹다 pull 땡기기 https://stackoverflow.com/questions/3497123/run-git-pull-over-all-subdirectories
 
-init -> remote
-clone
-add .
-commit -m " "
-push
-pull
+```bash
+for i in */.git; do ( echo $i; cd $i/..; git pull; ); done
+```
 
 git status (: 현재 저장된)
 git ? (: commit 버전보기)
