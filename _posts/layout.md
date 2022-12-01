@@ -25,12 +25,12 @@ Alert(driver).accept()
 정답을 입력하세요
 </details>
 
-```
+
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
-```
+
 [X]  복습 완료
 [  ]  앞으로 복습 필요
 
